@@ -1,0 +1,2 @@
+# blockassist
+automate blockassist dependencies
